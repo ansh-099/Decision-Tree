@@ -5,7 +5,7 @@ Machine Learning: Decision Tree. Function Approximation.
 ## Assumptions
 Grow tree just big enough to fit correct labeled data.
 So short decision tree is more preferable than long.
-> Occam's razor: prefer the simplest hypothesis that fit the data
+* Occam's razor: prefer the simplest hypothesis that fit the data
 
 ## Properties
 - can approximate any discrete function
